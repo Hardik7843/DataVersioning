@@ -1,0 +1,5 @@
+outs:
+- md5: 9d02ef0bafa53970e9341dd33d001325
+  size: 138
+  hash: md5
+  path: da.txt
